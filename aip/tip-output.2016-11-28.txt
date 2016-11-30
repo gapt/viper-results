@@ -1,0 +1,102 @@
+# <tip-file> <proof-found> <computation-time>
+
+# All problems were run with "sequential" induction axioms.
+
+# Computation times are in nano seconds.
+
+# The proof-found column indicates whether a proof was found:
+# Success indicates a proof was found
+# Failure indicates that the problem (with induction axioms) does not admit a proof.
+
+# The TIP problems which are not listed below either terminated abnormally or
+# reached the timeout (300s).
+
+./../benchmarks/benchmarks/tip2015/list_z_elem.smt2 success 1139641512
+./../benchmarks/benchmarks/tip2015/list_elem.smt2 success 1121109596
+./../benchmarks/benchmarks/tip2015/list_elem_map.smt2 success 1078997320
+./../benchmarks/benchmarks/tip2015/heap_minimum.smt2 success 5460556728
+./../benchmarks/benchmarks/tip2015/nat_boring_min_idem.smt2 success 2268789885
+./../benchmarks/benchmarks/tip2015/list_return_2.smt2 success 2426976128
+./../benchmarks/benchmarks/tip2015/nat_eq_sym.smt2 success 4062172642
+./../benchmarks/benchmarks/tip2015/list_return_1.smt2 failure 921166272
+./../benchmarks/benchmarks/tip2015/nat_eq_refl.smt2 success 1669043970
+./../benchmarks/benchmarks/tip2015/list_z_elem_map.smt2 success 885109195
+./../benchmarks/benchmarks/tip2015/int_add_ident_left.smt2 success 3250969247
+./../benchmarks/benchmarks/tip2015/nat_boring_ge_antisym.smt2 success 6651302045
+./../benchmarks/benchmarks/tip2015/weird_nat_add3_rot.smt2 success 5610105823
+./../benchmarks/benchmarks/tip2015/nat_boring_max_min_distrib.smt2 success 5201646235
+./../benchmarks/benchmarks/tip2015/nat_boring_ge_reflexive.smt2 success 1701098803
+./../benchmarks/benchmarks/tip2015/nat_le_reflexive.smt2 success 2049120040
+./../benchmarks/benchmarks/tip2015/weird_nat_add3_spec.smt2 success 4665402953
+./../benchmarks/benchmarks/tip2015/nat_lt_ne.smt2 success 5136305788
+./../benchmarks/benchmarks/tip2015/tree_Flatten2.smt2 failure 1320968309
+./../benchmarks/benchmarks/tip2015/nat_max_assoc.smt2 success 4442417330
+./../benchmarks/benchmarks/tip2015/nat_acc_plus_assoc.smt2 success 3568081179
+./../benchmarks/benchmarks/tip2015/nat_pow_one.smt2 success 3122158433
+./../benchmarks/benchmarks/tip2015/nat_boring_gt_asymmetric.smt2 success 3471147594
+./../benchmarks/benchmarks/tip2015/nat_le_ge_eq.smt2 success 4610038184
+./../benchmarks/benchmarks/tip2015/nat_le_ne_lt.smt2 success 3835599048
+./../benchmarks/benchmarks/tip2015/nat_lt_irreflexive.smt2 success 2552707719
+./../benchmarks/benchmarks/tip2015/nat_max_idem.smt2 success 2292666484
+./../benchmarks/benchmarks/tip2015/weird_nat_add3_comm12.smt2 success 9023058590
+./../benchmarks/benchmarks/tip2015/list_concat_map_bind.smt2 success 2487567776
+./../benchmarks/benchmarks/tip2015/weird_nat_add3_assoc1.smt2 success 120637005330
+./../benchmarks/benchmarks/tip2015/nat_lt_asymmetric.smt2 success 3429723038
+./../benchmarks/benchmarks/tip2015/nat_boring_min_comm.smt2 success 2630930520
+./../benchmarks/benchmarks/tip2015/nat_le_antisym.smt2 success 5100154959
+./../benchmarks/benchmarks/tip2015/nat_max_comm.smt2 success 2874716996
+./../benchmarks/benchmarks/tip2015/nat_boring_min_assoc.smt2 success 5031202202
+./../benchmarks/benchmarks/tip2015/list_append_inj_2.smt2 success 2768776919
+./../benchmarks/benchmarks/tip2015/bin_plus_comm.smt2 success 28831458341
+./../benchmarks/benchmarks/tip2015/tree_Flatten3.smt2 failure 1773567431
+./../benchmarks/benchmarks/tip2015/weird_nat_add3_comm13.smt2 success 270016834518
+./../benchmarks/benchmarks/tip2015/nat_boring_max_min_abs.smt2 success 2676107662
+./../benchmarks/benchmarks/tip2015/weird_nat_add3_rrot.smt2 success 103204995485
+./../benchmarks/benchmarks/tip2015/weird_nat_add3_comm23.smt2 success 5228843979
+./../benchmarks/benchmarks/tip2015/nat_boring_gt_irreflexive.smt2 success 1997570519
+./../benchmarks/benchmarks/prod/prop_13.smt2 failure 836080762
+./../benchmarks/benchmarks/prod/prop_41.smt2 success 3871955093
+./../benchmarks/benchmarks/prod/prop_15.smt2 failure 883815337
+./../benchmarks/benchmarks/prod/prop_02.smt2 success 3767232569
+./../benchmarks/benchmarks/prod/prop_40.smt2 success 4143425541
+./../benchmarks/benchmarks/prod/prop_32.smt2 failure 1247227352
+./../benchmarks/benchmarks/prod/prop_03.smt2 success 4368920275
+./../benchmarks/benchmarks/isaplanner/prop_13.smt2 success 1349182493
+./../benchmarks/benchmarks/isaplanner/prop_44.smt2 success 2118965927
+./../benchmarks/benchmarks/isaplanner/prop_12.smt2 success 4890764405
+./../benchmarks/benchmarks/isaplanner/prop_55.smt2 success 4691336466
+./../benchmarks/benchmarks/isaplanner/prop_22.smt2 success 4566500634
+./../benchmarks/benchmarks/isaplanner/prop_62.smt2 success 2126840624
+./../benchmarks/benchmarks/isaplanner/prop_79.smt2 success 3910922785
+./../benchmarks/benchmarks/isaplanner/prop_35.smt2 success 2124590148
+./../benchmarks/benchmarks/isaplanner/prop_21.smt2 success 2711821029
+./../benchmarks/benchmarks/isaplanner/prop_39.smt2 success 3630080070
+./../benchmarks/benchmarks/isaplanner/prop_04.smt2 success 4185243590
+./../benchmarks/benchmarks/isaplanner/prop_28.smt2 success 11717054161
+./../benchmarks/benchmarks/isaplanner/prop_14.smt2 success 3666522496
+./../benchmarks/benchmarks/isaplanner/prop_19.smt2 success 3107235171
+./../benchmarks/benchmarks/isaplanner/prop_06.smt2 success 2762517729
+./../benchmarks/benchmarks/isaplanner/prop_70.smt2 success 4090034052
+./../benchmarks/benchmarks/isaplanner/prop_37.smt2 success 8017427581
+./../benchmarks/benchmarks/isaplanner/prop_31.smt2 success 3744976142
+./../benchmarks/benchmarks/isaplanner/prop_11.smt2 success 1240740807
+./../benchmarks/benchmarks/isaplanner/prop_07.smt2 success 3304485252
+./../benchmarks/benchmarks/isaplanner/prop_46.smt2 success 1681710154
+./../benchmarks/benchmarks/isaplanner/prop_40.smt2 success 1267886727
+./../benchmarks/benchmarks/isaplanner/prop_09.smt2 success 3066605041
+./../benchmarks/benchmarks/isaplanner/prop_32.smt2 success 2766932878
+./../benchmarks/benchmarks/isaplanner/prop_43.smt2 success 3454489068
+./../benchmarks/benchmarks/isaplanner/prop_10.smt2 success 1442866502
+./../benchmarks/benchmarks/isaplanner/prop_36.smt2 success 1730924536
+./../benchmarks/benchmarks/isaplanner/prop_08.smt2 success 2318002541
+./../benchmarks/benchmarks/isaplanner/prop_82.smt2 success 44313072721
+./../benchmarks/benchmarks/isaplanner/prop_45.smt2 success 1586057185
+./../benchmarks/benchmarks/isaplanner/prop_80.smt2 success 47093949402
+./../benchmarks/benchmarks/isaplanner/prop_42.smt2 success 1753248675
+./../benchmarks/benchmarks/isaplanner/prop_05.smt2 success 7122646914
+./../benchmarks/benchmarks/isaplanner/prop_17.smt2 success 2333831948
+./../benchmarks/benchmarks/isaplanner/prop_18.smt2 success 2363617864
+./../benchmarks/benchmarks/isaplanner/prop_16.smt2 success 1658137502
+./../benchmarks/benchmarks/isaplanner/prop_56.smt2 success 10900820794
+./../benchmarks/benchmarks/isaplanner/prop_23.smt2 success 3275218838
+./../benchmarks/benchmarks/isaplanner/prop_01.smt2 success 5076198887
