@@ -1,0 +1,144 @@
+# aip_tip_1481185193.out
+#
+# Format: <prover> <axiom type> <tip file> <status> <computation time in seconds>
+#
+# The status column indicates whether a proof was found:
+# Success indicates a proof was found.
+# Failure indicates that the problem (with induction axioms) does not admit a proof.
+# Error indicates abnormal termination.
+#
+# The TIP problems which are not listed below either terminated abnormally or
+# reached the timeout (300 s).
+#
+# The input problems were reduced to first-order logic with CNFReductionLKRes |> PredicateReductionCNF |> ErasureReductionCNF.
+# The splitting inferences were removed from the proof before the back-translation was applied.
+
+prover9 sequential ./../benchmarks/benchmarks/tip2015/propositional_AndCommutative.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_BSortIsSort.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_lt_trans.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/heap_merge.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/list_z_elem.smt2 success 0.56
+prover9 sequential ./../benchmarks/benchmarks/tip2015/list_elem.smt2 success 0.58
+prover9 sequential ./../benchmarks/benchmarks/tip2015/list_elem_map.smt2 success 0.58
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_MSortTDPermutes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_MSortBU2Count.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_boring_min_idem.smt2 success 1.20
+prover9 sequential ./../benchmarks/benchmarks/tip2015/list_return_2.smt2 success 1.83
+prover9 sequential ./../benchmarks/benchmarks/tip2015/int_add_ident_right.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_StoogeSort2Permutes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_StoogeSort2Sorts.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_RecPlus.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_eq_sym.smt2 success 6.82
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_eq_refl.smt2 success 1.12
+prover9 sequential ./../benchmarks/benchmarks/tip2015/list_z_elem_map.smt2 success 0.52
+prover9 sequential ./../benchmarks/benchmarks/tip2015/int_add_ident_left.smt2 success 3.95
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_StoogeSort2Count.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_RecEps.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/mccarthy91_M1.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_MSortTDSorts.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/bin_times.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_RecStar.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_StoogeSortIsSort.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_boring_ge_reflexive.smt2 success 1.15
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_le_reflexive.smt2 success 1.18
+prover9 sequential ./../benchmarks/benchmarks/tip2015/int_add_inv_right.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_NStoogeSortCount.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_SeqDistrPlus.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_BubSortCount.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_BSortSorts.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_BSortPermutes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/propositional_Okay.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_RecSeq.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_pow_one.smt2 success 11.95
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_BSortCount.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_boring_gt_asymmetric.smt2 success 4.55
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_le_ge_eq.smt2 success 88.50
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_le_ne_lt.smt2 success 70.33
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_NStoogeSortPermutes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_BubSortPermutes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_Reverse.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_NStoogeSortSorts.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/int_add_inv_left.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_lt_irreflexive.smt2 success 1.07
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_max_idem.smt2 success 1.20
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_RecNil.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_MSortBU2Sorts.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/bin_plus.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/polyrec_seq_index.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/fermat_last.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_StoogeSort2IsSort.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_StoogeSortCount.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/relaxedprefix_correct.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/subst_SubstFreeNo.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_RecAtom.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_Deeps.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/propositional_AndImplication.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/rotate_structural_mod.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/list_PairEvens.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_MSortBU2Permutes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_MSortTDIsSort.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/list_PairOdds.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_Star.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_NStoogeSortIsSort.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/subst_SubstFreeYes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_PlusIdempotent.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/propositional_Sound.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_lt_asymmetric.smt2 success 2.35
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_MSortBU2IsSort.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/list_Interleave.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_PlusAssociative.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_NStoogeSort2IsSort.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_PlusCommutative.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_le_antisym.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_MSortTDCount.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_NStoogeSort2Count.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_BubSortIsSort.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_BubSortSorts.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_NStoogeSort2Sorts.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/bin_plus_comm.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/mccarthy91_M2.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/regexp_SeqAssociative.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/bin_times_comm.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/propositional_AndIdempotent.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/nat_boring_gt_irreflexive.smt2 success 1.07
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_StoogeSortPermutes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_StoogeSortSorts.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/tip2015/sort_NStoogeSort2Permutes.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/grammars/packrat_unambigPackrat.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/grammars/simp_expr_unambig4.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_12.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_21.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_04.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_28.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_27.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_19.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_06.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_11.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_02.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_07.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_29.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_32.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_30.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_10.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_20.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_05.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_17.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_03.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_18.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/prod/prop_23.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_13.smt2 success 1.21
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_62.smt2 success 1.90
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_35.smt2 success 1.64
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_21.smt2 success 1.63
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_19.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_70.smt2 success 2.90
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_11.smt2 success 0.87
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_46.smt2 success 1.05
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_40.smt2 success 0.93
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_64.smt2 error -1
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_10.smt2 success 1.15
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_36.smt2 success 1.84
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_45.smt2 success 1.19
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_42.smt2 success 1.12
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_17.smt2 success 1.50
+prover9 sequential ./../benchmarks/benchmarks/isaplanner/prop_16.smt2 success 1.12
