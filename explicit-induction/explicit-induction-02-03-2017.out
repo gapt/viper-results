@@ -1,0 +1,57 @@
+# exind_1488481945.out
+#
+# Format: <problem> <status> <time in ns>
+#
+# The status is 'failure' if the problem is not provable, and success if a proof
+# was found within the timeout.
+#
+# The TIP problems which are not listed below either terminated abnormally or
+# reached the timeout (600 s).
+#
+# Test subjects: isaplanner_03 isaplanner_06 isaplanner_07 isaplanner_08 isaplanner_09 isaplanner_10 isaplanner_12 isaplanner_14 isaplanner_15 isaplanner_16 isaplanner_17 isaplanner_18 isaplanner_19 isaplanner_21 isaplanner_22 isaplanner_23 isaplanner_24 isaplanner_26 isaplanner_27 isaplanner_28 isaplanner_29 isaplanner_30 isaplanner_31 isaplanner_32 isaplanner_33 isaplanner_34 isaplanner_35 isaplanner_36 isaplanner_37 isaplanner_38 isaplanner_39 isaplanner_41 isaplanner_48 isaplanner_49 prod_01 prod_04 prod_05 prod_06 prod_07 prod_08 prod_10 prod_13 prod_15 prod_16 prod_20 prod_27 prod_28 prod_29 prod_30 prod_32 prod_33 prod_34 prod_35
+# Prover: Escargot
+
+isaplanner_07 success 498051187
+isaplanner_08 success 159593185
+isaplanner_06 success 151993186
+isaplanner_12 success 3391183064
+isaplanner_09 success 207909981
+isaplanner_10 success 70198093
+isaplanner_14 success 2246346896
+isaplanner_16 success 907007386
+isaplanner_17 success 1691156643
+isaplanner_18 success 1090796578
+isaplanner_19 success 1778957416
+isaplanner_21 success 1545238690
+isaplanner_23 success 1167645341
+isaplanner_22 success 1878701307
+isaplanner_03 success 7417933014
+isaplanner_26 success 3507079482
+isaplanner_24 success 1120347533
+isaplanner_27 success 4376681721
+isaplanner_28 success 2441879737
+isaplanner_31 success 2298384687
+isaplanner_32 success 1801258471
+isaplanner_33 success 2911532200
+isaplanner_34 success 3290985387
+isaplanner_35 success 1848847885
+isaplanner_36 success 1240994267
+isaplanner_37 success 3058075673
+isaplanner_38 success 8273760228
+isaplanner_39 success 1647153130
+isaplanner_41 success 3842752566
+isaplanner_29 success 86735772231
+prod_01 success 954260161
+prod_04 success 1680163510
+prod_05 success 1836523428
+prod_06 success 3777426708
+prod_07 success 3314380640
+prod_10 success 1035929594
+prod_13 success 684257115
+prod_15 success 846467679
+prod_16 success 530648377
+prod_20 success 637984522
+prod_27 success 4673385235
+prod_28 success 1953716649
+prod_32 success 571429607
+prod_34 success 74563468948
