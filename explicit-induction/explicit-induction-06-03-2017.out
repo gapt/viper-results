@@ -1,0 +1,63 @@
+# exind_1488801519.out
+#
+# Format: <problem> <status>
+#
+# The status is 'failure' if the problem is not provable, and success if a proof
+# was found within the timeout.
+#
+# The problems were simplified by removing the last weakening rules and strong quantifier
+# rules from the manual proof. The induction axioms were then created for the end-sequent
+# of this subproof. Finally Escargot was invoked for the simplified end-sequent with
+# the extracted induction axiom added to its antecedent.
+#
+# The TIP problems which are not listed below either terminated abnormally or
+# reached the timeout (600 s).
+
+isaplanner_06 success 212489257
+isaplanner_08 success 135957665
+isaplanner_07 success 411052439
+isaplanner_12 success 2039703598
+isaplanner_09 success 164602264
+isaplanner_10 success 115189193
+isaplanner_14 success 1464629093
+isaplanner_16 success 760250527
+isaplanner_15 success 1961576069
+isaplanner_17 success 906742663
+isaplanner_18 success 786137288
+isaplanner_19 success 1545046469
+isaplanner_21 success 1108633331
+isaplanner_03 success 145728424
+isaplanner_22 success 1825292240
+isaplanner_23 success 1530995422
+isaplanner_27 success 2192864056
+isaplanner_26 success 1861463052
+isaplanner_24 success 1187757657
+isaplanner_28 success 2122333783
+isaplanner_31 success 2755769301
+isaplanner_30 success 3999814505
+isaplanner_29 success 5181974673
+isaplanner_32 success 1277611909
+isaplanner_35 success 1702059358
+isaplanner_33 success 3158813335
+isaplanner_36 success 1077809407
+isaplanner_34 success 3513666003
+isaplanner_37 success 2371959336
+isaplanner_39 success 1257891373
+isaplanner_41 success 14855328262
+isaplanner_38 success 18786020867
+prod_01 success 978829280
+prod_04 success 1139136158
+prod_05 success 1161766254
+prod_06 success 2284135059
+prod_07 success 1751719830
+prod_10 success 758049982
+prod_13 success 571384730
+prod_15 success 1022307117
+prod_16 success 542261193
+prod_20 success 660238780
+prod_27 success 2133027883
+prod_28 success 843134333
+prod_08 success 55206513978
+prod_32 success 637525315
+prod_34 success 1837178441
+prod_35 success 6244512104
