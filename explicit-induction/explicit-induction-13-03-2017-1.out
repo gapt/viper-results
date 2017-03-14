@@ -1,0 +1,58 @@
+# exind_1489433627.out
+#
+# Format: <problem> <status>
+#
+# The status is 'failure' if the problem is not provable, and success if a proof
+# was found within the timeout.
+#
+# The TIP problems which are not listed below either terminated abnormally or
+# reached the timeout (600 s).
+
+isaplanner_06 success 135154437
+isaplanner_07 success 314398508
+isaplanner_08 success 171529054
+isaplanner_03 success 317857659
+isaplanner_12 success 2208769906
+isaplanner_10 success 153003064
+isaplanner_15 success 1826647772
+isaplanner_14 success 4145601780
+isaplanner_09 success 102260785
+isaplanner_16 success 651214788
+isaplanner_18 success 1075261290
+isaplanner_17 success 1199915624
+isaplanner_19 success 1749296832
+isaplanner_21 success 1430933634
+isaplanner_22 success 2917616689
+isaplanner_23 success 2386233476
+isaplanner_26 success 1702074365
+isaplanner_27 success 2554126114
+isaplanner_28 success 2200077529
+isaplanner_24 success 1347969418
+isaplanner_29 success 6198515577
+isaplanner_31 success 2742819579
+isaplanner_32 success 1658704900
+isaplanner_30 success 4755619422
+isaplanner_35 success 1419166754
+isaplanner_36 success 1223286126
+isaplanner_33 success 2861388484
+isaplanner_34 success 4371076210
+isaplanner_37 success 3561996475
+isaplanner_38 success 3294526305
+isaplanner_39 success 1392690558
+isaplanner_41 success 2384133750
+prod_01 success 1125951945
+prod_04 success 1873405787
+prod_05 success 2093112538
+prod_06 success 3617529240
+prod_07 success 617903045
+prod_10 success 890445225
+prod_13 success 569929570
+prod_15 success 1004801063
+prod_16 success 575178241
+prod_20 success 671283061
+prod_27 success 739944484
+prod_28 success 1869419322
+prod_08 success 237819129170
+prod_32 success 3362077375
+prod_34 success 3774077763
+prod_35 success 151604274326
