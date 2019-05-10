@@ -1,0 +1,6 @@
+commit 8c5cb7cb38384326c9bb81a936a76e7858575784
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Mon Apr 29 14:27:38 2019 +0200
+
+    enable generalisation when inducting over multiple variables
+

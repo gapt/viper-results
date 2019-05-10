@@ -1,0 +1,6 @@
+commit d88df222f09c04b3bb3a222b785a6c35dfa3c96c
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Thu Apr 25 16:19:35 2019 +0200
+
+    only induct on primary occurences
+

@@ -1,0 +1,6 @@
+commit f20f043855ceee8ecd20dfca8610296bc144529b
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Tue Apr 23 21:47:54 2019 +0200
+
+    make viper use the context with the reduction rules
+

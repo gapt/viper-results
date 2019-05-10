@@ -1,0 +1,6 @@
+commit 9b414419e6d9225fdd26e227a0306ad90d14c034
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Fri Apr 26 19:42:20 2019 +0200
+
+    generate sequential induction axioms when inducting on several primary occurences under the same symbol
+

@@ -1,0 +1,6 @@
+commit 0216170263226fdadc5585993452877ac73ef541
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Sat Apr 27 01:57:13 2019 +0200
+
+    filter candidates earlier and add axioms in the order they were picked
+
