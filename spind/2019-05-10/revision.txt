@@ -1,0 +1,6 @@
+commit 2883dd8655b9661ac39135768a76b2ff1478b818
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Fri May 10 17:45:19 2019 +0200
+
+    add metrics for number inductions and depth before/after cleaning
+
