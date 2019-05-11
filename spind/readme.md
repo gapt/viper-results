@@ -15,22 +15,22 @@ jupyter notebook
     </tr>
     <tr>
       <th>mode</th>
-      <th>analytic_independent</th>
-      <th>analytic_sequential</th>
+      <th>ai</th>
+      <th>as</th>
       <th>spind</th>
-      <th>treegrammar</th>
-      <th>analytic_independent</th>
-      <th>analytic_sequential</th>
+      <th>tg</th>
+      <th>ai</th>
+      <th>as</th>
       <th>spind</th>
-      <th>treegrammar</th>
-      <th>analytic_independent</th>
-      <th>analytic_sequential</th>
+      <th>tg</th>
+      <th>ai</th>
+      <th>as</th>
       <th>spind</th>
-      <th>treegrammar</th>
-      <th>analytic_independent</th>
-      <th>analytic_sequential</th>
+      <th>tg</th>
+      <th>ai</th>
+      <th>as</th>
       <th>spind</th>
-      <th>treegrammar</th>
+      <th>tg</th>
     </tr>
     <tr>
       <th>file</th>
