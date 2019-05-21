@@ -1,0 +1,6 @@
+commit 5306dd0d657c879ca99923036c1bb8fed049ac28
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Mon May 20 17:45:56 2019 +0200
+
+    properly count inductions
+
