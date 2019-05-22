@@ -1,5 +1,7 @@
 # Isaplanner
 
+NOTE: Not up to date.
+
 ## Solved
 - prop_01
 - prop_06
