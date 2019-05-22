@@ -1,4 +1,4 @@
-parallel --timeout 100 \
+parallel --timeout 200 \
   --colsep ' ' \
   --files --results results \
   --joblog joblog --resume \
