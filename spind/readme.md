@@ -62,15 +62,15 @@ jupyter notebook
       <td>2.0</td>
       <td>3.0</td>
       <td>NaN</td>
-      <td>5707.0</td>
-      <td>2986.0</td>
-      <td>2955.0</td>
+      <td>5334.0</td>
+      <td>3364.0</td>
+      <td>3779.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_01.smt2</th>
       <td>2.0</td>
-      <td>9.0</td>
+      <td>12.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -80,14 +80,14 @@ jupyter notebook
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3289.0</td>
-      <td>3971.0</td>
+      <td>2947.0</td>
+      <td>3652.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_02.smt2</th>
       <td>5.0</td>
-      <td>12.0</td>
+      <td>13.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -96,15 +96,15 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>16758.0</td>
-      <td>4232.0</td>
-      <td>5885.0</td>
+      <td>21477.0</td>
+      <td>4651.0</td>
+      <td>6355.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_03.smt2</th>
-      <td>9.0</td>
-      <td>103.0</td>
+      <td>6.0</td>
+      <td>55.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -113,15 +113,15 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>9152.0</td>
-      <td>7408.0</td>
-      <td>5075.0</td>
+      <td>7675.0</td>
+      <td>5693.0</td>
+      <td>4565.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_04.smt2</th>
-      <td>3.0</td>
-      <td>25.0</td>
+      <td>4.0</td>
+      <td>31.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -130,27 +130,27 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>6344.0</td>
-      <td>2913.0</td>
-      <td>3698.0</td>
-      <td>6254.0</td>
+      <td>4716.0</td>
+      <td>3087.0</td>
+      <td>4903.0</td>
+      <td>15628.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_05.smt2</th>
       <td>9.0</td>
-      <td>111.0</td>
+      <td>93.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>1.0</td>
-      <td>3.0</td>
+      <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>4505.0</td>
-      <td>4897.0</td>
-      <td>7511.0</td>
+      <td>4633.0</td>
+      <td>5659.0</td>
+      <td>5374.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_06.smt2</th>
@@ -164,9 +164,9 @@ jupyter notebook
       <td>2.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>2983.0</td>
-      <td>2024.0</td>
-      <td>2220.0</td>
+      <td>2663.0</td>
+      <td>2416.0</td>
+      <td>2023.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -181,26 +181,26 @@ jupyter notebook
       <td>4.0</td>
       <td>2.0</td>
       <td>NaN</td>
-      <td>2537.0</td>
-      <td>2671.0</td>
-      <td>3237.0</td>
+      <td>2728.0</td>
+      <td>3004.0</td>
+      <td>2925.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_08.smt2</th>
-      <td>1.0</td>
-      <td>18.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
+      <td>2.0</td>
+      <td>21.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>3256.0</td>
-      <td>2429.0</td>
-      <td>2577.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>3056.0</td>
+      <td>2599.0</td>
+      <td>3277.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -216,8 +216,8 @@ jupyter notebook
       <td>2.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>5901.0</td>
-      <td>3368.0</td>
+      <td>4411.0</td>
+      <td>3846.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -232,10 +232,10 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>1910.0</td>
-      <td>1830.0</td>
-      <td>2010.0</td>
-      <td>4042.0</td>
+      <td>2373.0</td>
+      <td>1874.0</td>
+      <td>2002.0</td>
+      <td>4482.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_11.smt2</th>
@@ -249,10 +249,10 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>1256.0</td>
-      <td>1487.0</td>
-      <td>1643.0</td>
-      <td>3530.0</td>
+      <td>1401.0</td>
+      <td>1485.0</td>
+      <td>1745.0</td>
+      <td>3809.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_12.smt2</th>
@@ -267,8 +267,8 @@ jupyter notebook
       <td>2.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>2932.0</td>
-      <td>3821.0</td>
+      <td>4413.0</td>
+      <td>3974.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -283,10 +283,10 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>1828.0</td>
-      <td>1866.0</td>
-      <td>1941.0</td>
-      <td>3817.0</td>
+      <td>1676.0</td>
+      <td>1661.0</td>
+      <td>1949.0</td>
+      <td>3394.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_14.smt2</th>
@@ -300,26 +300,26 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3271.0</td>
-      <td>4887.0</td>
+      <td>3694.0</td>
+      <td>3219.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_15.smt2</th>
       <td>6.0</td>
-      <td>59.0</td>
+      <td>46.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>2.0</td>
+      <td>1.0</td>
       <td>NaN</td>
-      <td>4419.0</td>
-      <td>4038.0</td>
-      <td>5228.0</td>
+      <td>4389.0</td>
+      <td>4208.0</td>
+      <td>5747.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -334,10 +334,27 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>2333.0</td>
-      <td>2382.0</td>
-      <td>1506.0</td>
-      <td>4383.0</td>
+      <td>1804.0</td>
+      <td>1916.0</td>
+      <td>1394.0</td>
+      <td>3868.0</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_17.smt2</th>
+      <td>0.0</td>
+      <td>33.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>2708.0</td>
+      <td>2390.0</td>
+      <td>2611.0</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_18.smt2</th>
@@ -351,9 +368,9 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>1877.0</td>
-      <td>2252.0</td>
-      <td>2185.0</td>
+      <td>2625.0</td>
+      <td>2283.0</td>
+      <td>2390.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -369,8 +386,8 @@ jupyter notebook
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>2953.0</td>
-      <td>3295.0</td>
+      <td>3096.0</td>
+      <td>3717.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -385,14 +402,14 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>2755.0</td>
-      <td>2729.0</td>
-      <td>2382.0</td>
+      <td>2413.0</td>
+      <td>1874.0</td>
+      <td>2467.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_22.smt2</th>
-      <td>3.0</td>
+      <td>2.0</td>
       <td>13.0</td>
       <td>NaN</td>
       <td>1.0</td>
@@ -403,133 +420,150 @@ jupyter notebook
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>5437.0</td>
-      <td>5451.0</td>
+      <td>4091.0</td>
+      <td>4603.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_23.smt2</th>
       <td>2.0</td>
-      <td>11.0</td>
-      <td>NaN</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>2.0</td>
-      <td>4.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>2569.0</td>
-      <td>3040.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>isaplanner/prop_26.smt2</th>
-      <td>2.0</td>
-      <td>36.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>3.0</td>
-      <td>1.0</td>
-      <td>2.0</td>
-      <td>NaN</td>
-      <td>24689.0</td>
-      <td>13783.0</td>
-      <td>2837.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>isaplanner/prop_27.smt2</th>
-      <td>1.0</td>
-      <td>43.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>2.0</td>
-      <td>2.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>4984.0</td>
-      <td>3075.0</td>
-      <td>3134.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>isaplanner/prop_28.smt2</th>
-      <td>4.0</td>
-      <td>29.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>2.0</td>
-      <td>4.0</td>
-      <td>2.0</td>
-      <td>NaN</td>
-      <td>3117.0</td>
-      <td>4612.0</td>
-      <td>3527.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>isaplanner/prop_29.smt2</th>
-      <td>5.0</td>
-      <td>256.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>2.0</td>
-      <td>NaN</td>
-      <td>5.0</td>
-      <td>NaN</td>
-      <td>13707.0</td>
-      <td>NaN</td>
-      <td>13675.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>isaplanner/prop_30.smt2</th>
-      <td>5.0</td>
-      <td>289.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>2.0</td>
-      <td>NaN</td>
-      <td>3.0</td>
-      <td>NaN</td>
-      <td>11113.0</td>
-      <td>NaN</td>
-      <td>16173.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>isaplanner/prop_31.smt2</th>
-      <td>3.0</td>
       <td>12.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
+      <td>2.0</td>
+      <td>4.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2851.0</td>
+      <td>3812.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_25.smt2</th>
+      <td>8.0</td>
+      <td>132.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>3.0</td>
+      <td>3.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>5264.0</td>
+      <td>6151.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_26.smt2</th>
+      <td>0.0</td>
+      <td>33.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>3.0</td>
+      <td>1.0</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>21837.0</td>
+      <td>12998.0</td>
+      <td>2824.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_27.smt2</th>
+      <td>0.0</td>
+      <td>31.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>2.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>4785.0</td>
+      <td>3348.0</td>
+      <td>2758.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_28.smt2</th>
+      <td>5.0</td>
+      <td>34.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>4.0</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>3133.0</td>
+      <td>4208.0</td>
+      <td>3000.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_29.smt2</th>
+      <td>5.0</td>
+      <td>255.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>5.0</td>
+      <td>NaN</td>
+      <td>13559.0</td>
+      <td>NaN</td>
+      <td>15756.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_30.smt2</th>
+      <td>7.0</td>
+      <td>387.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>3.0</td>
+      <td>NaN</td>
+      <td>11730.0</td>
+      <td>NaN</td>
+      <td>30822.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_31.smt2</th>
+      <td>3.0</td>
+      <td>16.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>4.0</td>
       <td>4.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3989.0</td>
-      <td>5257.0</td>
+      <td>4724.0</td>
+      <td>5507.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_32.smt2</th>
       <td>1.0</td>
-      <td>11.0</td>
+      <td>12.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -539,8 +573,42 @@ jupyter notebook
       <td>4.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>2973.0</td>
-      <td>3158.0</td>
+      <td>3187.0</td>
+      <td>3243.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_33.smt2</th>
+      <td>3.0</td>
+      <td>102.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>4.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>5703.0</td>
+      <td>6609.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>isaplanner/prop_34.smt2</th>
+      <td>0.0</td>
+      <td>90.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>4.0</td>
+      <td>7.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>5141.0</td>
+      <td>6240.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -555,10 +623,10 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>1.0</td>
-      <td>2390.0</td>
-      <td>1609.0</td>
+      <td>2424.0</td>
+      <td>1892.0</td>
       <td>NaN</td>
-      <td>5424.0</td>
+      <td>6423.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_36.smt2</th>
@@ -572,32 +640,32 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>1.0</td>
-      <td>3125.0</td>
-      <td>2547.0</td>
+      <td>2185.0</td>
+      <td>2208.0</td>
       <td>NaN</td>
-      <td>6165.0</td>
+      <td>4685.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_37.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>4.0</td>
+      <td>47.0</td>
       <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
       <td>NaN</td>
-      <td>3118.0</td>
-      <td>3573.0</td>
-      <td>NaN</td>
+      <td>3015.0</td>
+      <td>4640.0</td>
+      <td>4355.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_38.smt2</th>
-      <td>16.0</td>
-      <td>147.0</td>
+      <td>15.0</td>
+      <td>141.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>1.0</td>
@@ -606,15 +674,15 @@ jupyter notebook
       <td>NaN</td>
       <td>4.0</td>
       <td>NaN</td>
-      <td>5738.0</td>
+      <td>6149.0</td>
       <td>NaN</td>
-      <td>9417.0</td>
+      <td>10962.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_39.smt2</th>
-      <td>11.0</td>
-      <td>76.0</td>
+      <td>3.0</td>
+      <td>25.0</td>
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
@@ -623,9 +691,9 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>NaN</td>
-      <td>3037.0</td>
-      <td>3836.0</td>
-      <td>6421.0</td>
+      <td>2981.0</td>
+      <td>3565.0</td>
+      <td>3777.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -640,26 +708,26 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>1467.0</td>
-      <td>1583.0</td>
-      <td>2220.0</td>
-      <td>4264.0</td>
+      <td>1386.0</td>
+      <td>1490.0</td>
+      <td>1711.0</td>
+      <td>3376.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_41.smt2</th>
-      <td>6.0</td>
-      <td>29.0</td>
+      <td>5.0</td>
+      <td>26.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>2.0</td>
+      <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>11334.0</td>
+      <td>11537.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -674,10 +742,10 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>1947.0</td>
-      <td>2557.0</td>
-      <td>1979.0</td>
-      <td>3285.0</td>
+      <td>1842.0</td>
+      <td>1778.0</td>
+      <td>2207.0</td>
+      <td>3907.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_43.smt2</th>
@@ -691,15 +759,15 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>2884.0</td>
-      <td>3526.0</td>
+      <td>4460.0</td>
+      <td>3627.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_44.smt2</th>
       <td>1.0</td>
-      <td>9.0</td>
+      <td>5.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -708,9 +776,9 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>2440.0</td>
-      <td>2329.0</td>
-      <td>2364.0</td>
+      <td>2183.0</td>
+      <td>2254.0</td>
+      <td>2831.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -725,9 +793,9 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>NaN</td>
-      <td>1765.0</td>
-      <td>1832.0</td>
-      <td>2206.0</td>
+      <td>2435.0</td>
+      <td>2177.0</td>
+      <td>2208.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -742,26 +810,26 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>1848.0</td>
-      <td>2093.0</td>
-      <td>1521.0</td>
-      <td>3729.0</td>
+      <td>2102.0</td>
+      <td>1714.0</td>
+      <td>1514.0</td>
+      <td>3863.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_55.smt2</th>
+      <td>2.0</td>
+      <td>26.0</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
+      <td>3.0</td>
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>3445.0</td>
-      <td>NaN</td>
+      <td>3534.0</td>
+      <td>4807.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -777,42 +845,42 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>5349.0</td>
+      <td>5891.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_57.smt2</th>
-      <td>40.0</td>
-      <td>432.0</td>
+      <td>53.0</td>
+      <td>550.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>9.0</td>
+      <td>12.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>27617.0</td>
+      <td>43273.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_58.smt2</th>
-      <td>25.0</td>
-      <td>178.0</td>
+      <td>33.0</td>
+      <td>224.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>4.0</td>
+      <td>5.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>12314.0</td>
+      <td>16153.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -830,7 +898,7 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>4622.0</td>
+      <td>5365.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_62.smt2</th>
@@ -844,10 +912,10 @@ jupyter notebook
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>2065.0</td>
-      <td>2084.0</td>
-      <td>1570.0</td>
-      <td>3395.0</td>
+      <td>1455.0</td>
+      <td>2142.0</td>
+      <td>1603.0</td>
+      <td>4097.0</td>
     </tr>
     <tr>
       <th>isaplanner/prop_70.smt2</th>
@@ -862,31 +930,31 @@ jupyter notebook
       <td>2.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3004.0</td>
-      <td>2914.0</td>
+      <td>2944.0</td>
+      <td>4839.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_75.smt2</th>
-      <td>51.0</td>
-      <td>692.0</td>
+      <td>24.0</td>
+      <td>545.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3.0</td>
+      <td>7.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>23222.0</td>
+      <td>26562.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_76.smt2</th>
-      <td>12.0</td>
-      <td>220.0</td>
+      <td>0.0</td>
+      <td>85.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -896,14 +964,14 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>18583.0</td>
-      <td>7725.0</td>
+      <td>21414.0</td>
+      <td>10719.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_79.smt2</th>
       <td>2.0</td>
-      <td>38.0</td>
+      <td>34.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -913,31 +981,31 @@ jupyter notebook
       <td>2.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>4409.0</td>
-      <td>3822.0</td>
+      <td>4708.0</td>
+      <td>5786.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>isaplanner/prop_80.smt2</th>
+      <td>2.0</td>
+      <td>26.0</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
       <td>3.0</td>
+      <td>2.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>4515.0</td>
-      <td>NaN</td>
+      <td>3853.0</td>
+      <td>4674.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>prod/prop_02.smt2</th>
       <td>19.0</td>
-      <td>147.0</td>
+      <td>148.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -947,14 +1015,14 @@ jupyter notebook
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>4546.0</td>
-      <td>6169.0</td>
+      <td>4551.0</td>
+      <td>8444.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>prod/prop_03.smt2</th>
-      <td>22.0</td>
-      <td>231.0</td>
+      <td>24.0</td>
+      <td>266.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -964,8 +1032,8 @@ jupyter notebook
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3773.0</td>
-      <td>8389.0</td>
+      <td>3988.0</td>
+      <td>9532.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -982,13 +1050,13 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>1901.0</td>
-      <td>8950.0</td>
+      <td>2122.0</td>
+      <td>11857.0</td>
     </tr>
     <tr>
       <th>prod/prop_36.smt2</th>
-      <td>7.0</td>
-      <td>97.0</td>
+      <td>0.0</td>
+      <td>81.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
@@ -999,13 +1067,13 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>4080.0</td>
+      <td>4055.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>prod/prop_37.smt2</th>
-      <td>10.0</td>
-      <td>137.0</td>
+      <td>0.0</td>
+      <td>93.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1015,14 +1083,14 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>7140.0</td>
-      <td>4373.0</td>
+      <td>9172.0</td>
+      <td>3264.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>prod/prop_38.smt2</th>
-      <td>17.0</td>
-      <td>234.0</td>
+      <td>0.0</td>
+      <td>163.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1032,8 +1100,8 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>11354.0</td>
-      <td>4999.0</td>
+      <td>12571.0</td>
+      <td>4527.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -1050,7 +1118,7 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>5082.0</td>
+      <td>5712.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -1066,12 +1134,14 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>7500.0</td>
+      <td>7277.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/bin_nat_s.smt2</th>
+      <td>20.0</td>
+      <td>194.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
@@ -1080,11 +1150,9 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>4380.0</td>
-      <td>5204.0</td>
-      <td>NaN</td>
+      <td>5079.0</td>
+      <td>4729.0</td>
+      <td>9663.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -1100,12 +1168,14 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>5884.0</td>
+      <td>6139.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/bin_s.smt2</th>
+      <td>20.0</td>
+      <td>194.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
@@ -1114,101 +1184,99 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>5948.0</td>
-      <td>4962.0</td>
-      <td>NaN</td>
+      <td>4467.0</td>
+      <td>4868.0</td>
+      <td>6964.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/int_add_comm.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>4.0</td>
+      <td>5.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>NaN</td>
+      <td>1.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>2.0</td>
+      <td>2.0</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>7051.0</td>
-      <td>6671.0</td>
-      <td>NaN</td>
+      <td>7595.0</td>
+      <td>6693.0</td>
+      <td>9532.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/int_mul_comm.smt2</th>
-      <td>NaN</td>
+      <td>6.0</td>
+      <td>18.0</td>
+      <td>1.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>2.0</td>
       <td>NaN</td>
+      <td>3.0</td>
       <td>NaN</td>
+      <td>16008.0</td>
       <td>NaN</td>
-      <td>18503.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>6992.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/int_mul_ident_left.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
+      <td>4.0</td>
       <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
       <td>NaN</td>
-      <td>3351.0</td>
-      <td>3772.0</td>
-      <td>NaN</td>
+      <td>3619.0</td>
+      <td>3446.0</td>
+      <td>3912.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/int_mul_ident_right.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
+      <td>5.0</td>
       <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
       <td>NaN</td>
-      <td>4919.0</td>
-      <td>4901.0</td>
-      <td>NaN</td>
+      <td>4620.0</td>
+      <td>4883.0</td>
+      <td>6563.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/list_Interleave.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
+      <td>11.0</td>
       <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
       <td>NaN</td>
-      <td>4107.0</td>
-      <td>2998.0</td>
-      <td>NaN</td>
+      <td>3395.0</td>
+      <td>3260.0</td>
+      <td>4101.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/list_append_inj_2.smt2</th>
-      <td>0.0</td>
+      <td>1.0</td>
       <td>16.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1218,9 +1286,9 @@ jupyter notebook
       <td>1.0</td>
       <td>3.0</td>
       <td>NaN</td>
-      <td>4583.0</td>
-      <td>2915.0</td>
-      <td>2222.0</td>
+      <td>4977.0</td>
+      <td>3018.0</td>
+      <td>2884.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -1235,31 +1303,31 @@ jupyter notebook
       <td>2.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>3320.0</td>
-      <td>2921.0</td>
-      <td>3263.0</td>
+      <td>3138.0</td>
+      <td>2964.0</td>
+      <td>3396.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/list_nat_Interleave.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
+      <td>11.0</td>
       <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
       <td>NaN</td>
-      <td>4561.0</td>
-      <td>3991.0</td>
-      <td>NaN</td>
+      <td>4101.0</td>
+      <td>3313.0</td>
+      <td>3989.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/list_nat_append_inj_2.smt2</th>
-      <td>0.0</td>
+      <td>1.0</td>
       <td>16.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1269,15 +1337,15 @@ jupyter notebook
       <td>1.0</td>
       <td>3.0</td>
       <td>NaN</td>
-      <td>5061.0</td>
-      <td>2734.0</td>
-      <td>2164.0</td>
+      <td>4633.0</td>
+      <td>3816.0</td>
+      <td>3029.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/list_nat_elem.smt2</th>
-      <td>0.0</td>
-      <td>29.0</td>
+      <td>4.0</td>
+      <td>41.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1286,9 +1354,9 @@ jupyter notebook
       <td>2.0</td>
       <td>2.0</td>
       <td>NaN</td>
-      <td>2901.0</td>
-      <td>2514.0</td>
-      <td>2261.0</td>
+      <td>2689.0</td>
+      <td>2596.0</td>
+      <td>3580.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -1303,8 +1371,8 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>2555.0</td>
-      <td>2907.0</td>
+      <td>2645.0</td>
+      <td>2485.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
@@ -1320,8 +1388,8 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>2490.0</td>
-      <td>3442.0</td>
+      <td>2831.0</td>
+      <td>3172.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
@@ -1337,9 +1405,9 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
-      <td>2420.0</td>
-      <td>3345.0</td>
-      <td>3121.0</td>
+      <td>2711.0</td>
+      <td>2535.0</td>
+      <td>2617.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -1355,162 +1423,179 @@ jupyter notebook
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>5278.0</td>
+      <td>6854.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_acc_plus_same.smt2</th>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>3241.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>tip2015/nat_alt_mul_comm.smt2</th>
+      <td>5.0</td>
+      <td>14.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
       <td>2.0</td>
+      <td>5.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>4155.0</td>
+      <td>4959.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>tip2015/nat_alt_mul_same.smt2</th>
+      <td>8.0</td>
       <td>19.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>4453.0</td>
-      <td>3777.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>tip2015/nat_alt_mul_comm.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>2.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>4819.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>tip2015/nat_alt_mul_same.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>3.0</td>
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>33708.0</td>
-      <td>NaN</td>
+      <td>34205.0</td>
+      <td>7540.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_boring_ge_antisym.smt2</th>
+      <td>2.0</td>
+      <td>103.0</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
       <td>2.0</td>
+      <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>4056.0</td>
-      <td>NaN</td>
+      <td>5393.0</td>
+      <td>5411.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_boring_ge_reflexive.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
+      <td>8.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>NaN</td>
       <td>1.0</td>
-      <td>1972.0</td>
-      <td>2573.0</td>
-      <td>NaN</td>
-      <td>9793.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1808.0</td>
+      <td>1700.0</td>
+      <td>2190.0</td>
+      <td>9308.0</td>
     </tr>
     <tr>
       <th>tip2015/nat_boring_gt_asymmetric.smt2</th>
+      <td>3.0</td>
+      <td>87.0</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
+      <td>2.0</td>
       <td>2.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>NaN</td>
-      <td>3875.0</td>
-      <td>NaN</td>
+      <td>3082.0</td>
+      <td>4376.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_boring_gt_irreflexive.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
+      <td>13.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>NaN</td>
       <td>1.0</td>
-      <td>2796.0</td>
-      <td>2059.0</td>
-      <td>NaN</td>
-      <td>13099.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>3383.0</td>
+      <td>1982.0</td>
+      <td>1903.0</td>
+      <td>10900.0</td>
     </tr>
     <tr>
       <th>tip2015/nat_boring_max_min_abs.smt2</th>
-      <td>0.0</td>
-      <td>12.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>2.0</td>
+      <td>37.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>0.0</td>
       <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>3684.0</td>
+      <td>2690.0</td>
+      <td>2918.0</td>
+      <td>7129.0</td>
+    </tr>
+    <tr>
+      <th>tip2015/nat_boring_min_comm.smt2</th>
+      <td>2.0</td>
+      <td>172.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>1803.0</td>
-      <td>5969.0</td>
+      <td>3.0</td>
+      <td>4.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>10659.0</td>
+      <td>11032.0</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_boring_min_idem.smt2</th>
       <td>0.0</td>
-      <td>2.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>3.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>1353.0</td>
-      <td>2789.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1714.0</td>
+      <td>1555.0</td>
+      <td>1845.0</td>
+      <td>2689.0</td>
     </tr>
     <tr>
       <th>tip2015/nat_le_antisym.smt2</th>
@@ -1525,14 +1610,14 @@ jupyter notebook
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>5325.0</td>
-      <td>4543.0</td>
+      <td>4509.0</td>
+      <td>5535.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_le_ge_eq.smt2</th>
-      <td>2.0</td>
-      <td>127.0</td>
+      <td>5.0</td>
+      <td>132.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1542,14 +1627,14 @@ jupyter notebook
       <td>4.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3521.0</td>
-      <td>5170.0</td>
+      <td>4963.0</td>
+      <td>5494.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_le_ne_lt.smt2</th>
-      <td>0.0</td>
-      <td>87.0</td>
+      <td>1.0</td>
+      <td>89.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1559,8 +1644,8 @@ jupyter notebook
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3560.0</td>
-      <td>5097.0</td>
+      <td>4298.0</td>
+      <td>4835.0</td>
       <td>NaN</td>
     </tr>
     <tr>
@@ -1575,15 +1660,15 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>1790.0</td>
-      <td>2004.0</td>
-      <td>2044.0</td>
-      <td>3911.0</td>
+      <td>2041.0</td>
+      <td>2558.0</td>
+      <td>1688.0</td>
+      <td>8104.0</td>
     </tr>
     <tr>
       <th>tip2015/nat_lt_asymmetric.smt2</th>
-      <td>0.0</td>
-      <td>46.0</td>
+      <td>2.0</td>
+      <td>55.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1593,31 +1678,31 @@ jupyter notebook
       <td>3.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>3083.0</td>
-      <td>3304.0</td>
+      <td>3416.0</td>
+      <td>3770.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_lt_irreflexive.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
+      <td>8.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>NaN</td>
       <td>1.0</td>
-      <td>1698.0</td>
-      <td>1807.0</td>
-      <td>NaN</td>
-      <td>6037.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>1908.0</td>
+      <td>1844.0</td>
+      <td>1878.0</td>
+      <td>4808.0</td>
     </tr>
     <tr>
       <th>tip2015/nat_lt_ne.smt2</th>
-      <td>0.0</td>
-      <td>55.0</td>
+      <td>4.0</td>
+      <td>62.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1627,43 +1712,60 @@ jupyter notebook
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>2825.0</td>
-      <td>3117.0</td>
+      <td>3264.0</td>
+      <td>3382.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>tip2015/nat_max_comm.smt2</th>
+      <td>5.0</td>
+      <td>225.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>4.0</td>
+      <td>3.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>8793.0</td>
+      <td>11054.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/nat_max_idem.smt2</th>
       <td>0.0</td>
-      <td>2.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>3.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>1048.0</td>
-      <td>3504.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1507.0</td>
+      <td>2103.0</td>
+      <td>1771.0</td>
+      <td>2682.0</td>
     </tr>
     <tr>
       <th>tip2015/nat_min_max_abs.smt2</th>
-      <td>1.0</td>
-      <td>10.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
+      <td>0.0</td>
+      <td>18.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>2264.0</td>
-      <td>5999.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>3399.0</td>
+      <td>2785.0</td>
+      <td>3024.0</td>
+      <td>5454.0</td>
     </tr>
     <tr>
       <th>tip2015/nat_pow_one.smt2</th>
@@ -1677,32 +1779,66 @@ jupyter notebook
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>2934.0</td>
-      <td>2322.0</td>
-      <td>2971.0</td>
-      <td>15874.0</td>
+      <td>2841.0</td>
+      <td>2468.0</td>
+      <td>3184.0</td>
+      <td>8115.0</td>
+    </tr>
+    <tr>
+      <th>tip2015/nat_pow_times.smt2</th>
+      <td>24.0</td>
+      <td>57.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>2.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>14635.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>tip2015/regexp_RecEps.smt2</th>
+      <td>1.0</td>
+      <td>28.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>47906.0</td>
+      <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/regexp_RecNil.smt2</th>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>1.0</td>
-      <td>NaN</td>
+      <td>2.0</td>
+      <td>8.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
-      <td>5515.0</td>
-      <td>5569.0</td>
+      <td>1.0</td>
       <td>NaN</td>
-      <td>11529.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>5013.0</td>
+      <td>4880.0</td>
+      <td>5016.0</td>
+      <td>15415.0</td>
     </tr>
     <tr>
       <th>tip2015/weird_nat_add3_assoc1.smt2</th>
       <td>8.0</td>
-      <td>59.0</td>
+      <td>55.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1711,134 +1847,134 @@ jupyter notebook
       <td>2.0</td>
       <td>2.0</td>
       <td>NaN</td>
-      <td>7025.0</td>
-      <td>7436.0</td>
-      <td>6821.0</td>
+      <td>7132.0</td>
+      <td>6182.0</td>
+      <td>7160.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/weird_nat_add3_assoc2.smt2</th>
-      <td>13.0</td>
-      <td>102.0</td>
+      <td>12.0</td>
+      <td>91.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>5.0</td>
+      <td>4.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>10332.0</td>
+      <td>13338.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/weird_nat_add3_assoc3.smt2</th>
-      <td>11.0</td>
-      <td>101.0</td>
+      <td>12.0</td>
+      <td>106.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>6.0</td>
+      <td>8.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>8574.0</td>
+      <td>10409.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/weird_nat_add3_comm12.smt2</th>
-      <td>9.0</td>
-      <td>76.0</td>
+      <td>11.0</td>
+      <td>92.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>4.0</td>
-      <td>6.0</td>
+      <td>4.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>7048.0</td>
-      <td>7411.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>tip2015/weird_nat_add3_comm13.smt2</th>
-      <td>14.0</td>
-      <td>151.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>6.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>14099.0</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>tip2015/weird_nat_add3_comm23.smt2</th>
-      <td>9.0</td>
-      <td>34.0</td>
-      <td>NaN</td>
-      <td>1.0</td>
-      <td>1.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>3.0</td>
-      <td>5.0</td>
-      <td>NaN</td>
-      <td>NaN</td>
-      <td>7986.0</td>
+      <td>7845.0</td>
       <td>6773.0</td>
       <td>NaN</td>
     </tr>
     <tr>
+      <th>tip2015/weird_nat_add3_comm13.smt2</th>
+      <td>16.0</td>
+      <td>104.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>14.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>13550.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>tip2015/weird_nat_add3_comm23.smt2</th>
+      <td>13.0</td>
+      <td>59.0</td>
+      <td>NaN</td>
+      <td>1.0</td>
+      <td>1.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>3.0</td>
+      <td>11.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>7585.0</td>
+      <td>8099.0</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
       <th>tip2015/weird_nat_add3_rot.smt2</th>
-      <td>9.0</td>
-      <td>76.0</td>
+      <td>11.0</td>
+      <td>92.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>4.0</td>
-      <td>6.0</td>
+      <td>4.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>6721.0</td>
-      <td>6520.0</td>
+      <td>6999.0</td>
+      <td>6315.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/weird_nat_add3_rrot.smt2</th>
-      <td>25.0</td>
-      <td>428.0</td>
+      <td>44.0</td>
+      <td>556.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>9.0</td>
+      <td>15.0</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>19126.0</td>
+      <td>34397.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/weird_nat_add3_spec.smt2</th>
-      <td>5.0</td>
-      <td>15.0</td>
+      <td>8.0</td>
+      <td>54.0</td>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1847,15 +1983,15 @@ jupyter notebook
       <td>2.0</td>
       <td>3.0</td>
       <td>NaN</td>
-      <td>14464.0</td>
-      <td>4893.0</td>
-      <td>5419.0</td>
+      <td>11558.0</td>
+      <td>4806.0</td>
+      <td>6226.0</td>
       <td>NaN</td>
     </tr>
     <tr>
       <th>tip2015/weird_nat_add3acc_spec.smt2</th>
-      <td>5.0</td>
-      <td>12.0</td>
+      <td>6.0</td>
+      <td>18.0</td>
       <td>NaN</td>
       <td>1.0</td>
       <td>1.0</td>
@@ -1865,10 +2001,9 @@ jupyter notebook
       <td>4.0</td>
       <td>NaN</td>
       <td>NaN</td>
-      <td>4110.0</td>
-      <td>5761.0</td>
+      <td>4622.0</td>
+      <td>5715.0</td>
       <td>NaN</td>
     </tr>
   </tbody>
 </table>
-
