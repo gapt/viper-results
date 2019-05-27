@@ -1,4 +1,4 @@
-modes="analytic_sequential analytic_independent treegrammar spin"
+modes="analytic_sequential analytic_independent treegrammar spin spin_nogen spin_notest"
 
 test -f experiment_list || (
   for problem in $tip_files/*/*; do
