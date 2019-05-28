@@ -1,0 +1,6 @@
+commit cf0ceda8c00a4ae77d8df4fca3289c0107199ebf
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Mon May 27 19:54:12 2019 +0200
+
+    comment out testing messages
+
