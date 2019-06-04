@@ -1,0 +1,6 @@
+commit e2fd6ae160f23997b24c77ff8c03327a7deea6f1
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Tue Jun 4 14:24:55 2019 +0200
+
+    slightly extend the 'appears under same defined symbol' heuristic (isaplanner/prop_56.smt2)
+
