@@ -1,0 +1,6 @@
+commit c484c13fca75cd281d229da6b2b708fb0262ca0a
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Sun Jun 9 15:14:41 2019 +0200
+
+    count atomic and quantified induction targets
+
