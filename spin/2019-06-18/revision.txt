@@ -1,0 +1,6 @@
+commit cde3a692ae0aa52889dff08874858a90acc996df
+Author: Andreas H. From <andro.from@gmail.com>
+Date:   Tue Jun 18 13:10:28 2019 +0200
+
+    bump benchmarking timeout to 2 minutes
+
